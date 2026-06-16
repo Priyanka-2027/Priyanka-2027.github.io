@@ -4,13 +4,13 @@
 const themeToggle = document.getElementById('themeToggle');
 const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)');
 
-// Get saved theme or use system preference
+// Get saved theme or default to dark
 function getTheme() {
     const savedTheme = localStorage.getItem('theme');
     if (savedTheme) {
         return savedTheme;
     }
-    return prefersDarkScheme.matches ? 'dark' : 'light';
+    return 'dark'; // Always default to dark mode
 }
 
 // Apply theme

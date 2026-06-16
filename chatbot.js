@@ -526,8 +526,12 @@ Would you like me to highlight any specific section?`,
 • **Data Science & EDA** - Scaler Topics (2025)  
 • **AWS Cloud Fundamentals** - Scaler Topics (2025)
 • **MERN Full Stack Web Development Internship** - Edubot Technologies (2025)
+• **Oracle Certified Professional: Java SE 17** - Oracle University (2026)
+• **Node JS Certification Course** - Scaler Topics (April 2026)
+• **SAP Certified Generative AI Developer** - SAP (May 2026)
+• **MongoDB Associate Developer** - MongoDB (April 2026)
 
-These certifications complement my hands-on project experience and demonstrate my commitment to continuous learning in web development and cloud technologies.`,
+These certifications complement my hands-on project experience and demonstrate my commitment to continuous learning in web development, cloud technologies, and AI.`,
                 suggestions: ["💻 View Projects", "🛠️ Technical Skills", "💼 Work Experience"]
             };
         }

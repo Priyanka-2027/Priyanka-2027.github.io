@@ -397,7 +397,7 @@
 
         if (m.includes('certification') || m.includes('🏆')) {
             return {
-                text: "<strong>🏆 Certifications</strong><br><br>• Full Stack Web Development – Udemy (2025)<br>• Data Science & EDA – Scaler Topics (2025)<br>• AWS Cloud Fundamentals – Scaler Topics (2025)<br>• MERN Full Stack Internship – Edubot Technologies (2025)",
+                text: "<strong>🏆 Certifications</strong><br><br>• Full Stack Web Development – Udemy (2025)<br>• Data Science & EDA – Scaler Topics (2025)<br>• AWS Cloud Fundamentals – Scaler Topics (2025)<br>• MERN Full Stack Internship – Edubot Technologies (2025)<br>• Oracle Certified Professional: Java SE 17 – Oracle University (2026)<br>• Node JS Certification Course – Scaler Topics (April 2026)<br>• SAP Certified Generative AI Developer – SAP (May 2026)<br>• MongoDB Associate Developer – MongoDB (April 2026)",
                 suggestions: ["💻 Projects", "🛠️ Skills", "📧 Contact"]
             };
         }
